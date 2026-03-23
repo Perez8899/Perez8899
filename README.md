@@ -1,5 +1,3 @@
-# 🚀 Héctor José Pérez - Perfil de GitHub
-
 ## 👋 ¡Hola! Soy Héctor
 
 **Ingeniero de Sistemas** | **Desarrollador Backend Java** | **Apasionado por la tecnología**
@@ -69,8 +67,6 @@
 ---
 
 ## 📫 Conecta conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hector-jose-perez-624763290)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Perez8899)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectorjp43@gmail.com)
 
@@ -85,7 +81,3 @@
 - 📝 Comparto proyectos y código en mis repositorios
 
 ---
-
-## 📈 Visitas
-
-![Profile views](https://komarev.com/ghpvc/?username=Perez8899&color=blue)
